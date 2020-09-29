@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Git-Flow Usage
-categories: Git
-author:
-- JunSeok Yang
+layout: posts
+permalink: /categories/
+author_profile: true
 ---
 
 
