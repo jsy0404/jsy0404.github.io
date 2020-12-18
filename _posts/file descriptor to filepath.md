@@ -1,6 +1,6 @@
 # file descriptor to filepath
 
-```cpp
+```c
 #include <unistd.h>
 #include <limits.h>
 
