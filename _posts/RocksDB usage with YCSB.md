@@ -44,8 +44,4 @@ rocksdbjavastaticrelease: rocksdbjavastatic
 
 ```shell
 make rocksdbjavastaticrelease -j32
-git clone https://github.com/brianfrankcooper/YCSB.git
-cd YCSB
-git checkout 0.15.0
-mvn -pl com.yahoo.ycsb:rocksdb-binding -am clean package
 ```
