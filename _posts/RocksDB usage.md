@@ -5,6 +5,8 @@ sudo apt-get install openjdk-11-jre
 sudo apt-get install openjdk-11-jdk
 sudo apt install libsnappy-dev
 sudo apt install maven
+sudo apt install cmake
+sudo apt install curl
 ```
 
 ```shell
